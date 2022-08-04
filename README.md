@@ -14,6 +14,9 @@ This work is made by following requirements.
   - Dominance Analysis
   - Correspondance Analysis
 
+![pic_3](https://user-images.githubusercontent.com/89447019/182766413-69e9d763-c82e-4f70-8606-278de2316095.png)
+
+![pic_2](https://user-images.githubusercontent.com/89447019/182766447-aff9010a-3288-4bf1-9a43-8298933b11c6.png)
 
 
 
